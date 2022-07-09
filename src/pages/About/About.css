@@ -1,0 +1,9 @@
+
+.About{
+    background-image: linear-gradient(rgb(60, 2, 65),rgb(252, 7, 130));
+}
+.about-img{
+    height: 100% !important;
+    box-shadow: 2px 2px 15px 20px rgb(72, 3, 76);
+
+}
